@@ -1,5 +1,5 @@
 # Annual-Number-of-Death-by-Cause-Report
-This report is for the analysis of global data on number of death due to different causes from 1990 t0 2019.
+This report is for the analysis of global data on number of death due to different causes from 1990 to 2019.
 ## Objectives
 The primary goal of this analysis is to investigate global mortality trends, causes of death by category, and the top-ranking countries and region/continent. 
 ## Report Overview 
